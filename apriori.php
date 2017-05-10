@@ -1,4 +1,8 @@
 <?php
+/*
+  Copyright ALIOUCHE Houssem eddine ( PraGa ) 2017 aliouche.houssem2@gmail.com 
+  
+*/
 class Apriori{
   private $minSupport;
   private $minCof;
